@@ -6,7 +6,7 @@ $highlight: #d2674e;
 $dark: #22292e;
 
 #background {
-  background-image:url(headphone.jpg);
+  background-image:asset-url("headphone.jpg")
   height: 100vh;
   background-size: cover;
   background-position: center;
